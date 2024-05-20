@@ -1,7 +1,7 @@
 # Olá! 👋
 
 - 🌟 Eu sou @fabiabf
-- 👀 Estou interessada em ser desenvolvedor(a)
+- 👀 Estou interessada em ser desenvolvedora
 - 🌱 Atualmente estou aprendendo Java
 - 💞️ Estou procurando colaborar em projetos de código aberto
 - 📫 Como me encontrar: fabiabf
