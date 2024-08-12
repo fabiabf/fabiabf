@@ -6,7 +6,7 @@
 - 💞️ Estou procurando colaborar em projetos de código aberto
 - 📫 Como me encontrar: fabiabf
 - 😄 Pronomes: ela/dela
-- ⚡ Fato divertido: Eu amo jogar xadrez e praticar esportes ao ar livre!
+- ⚡ Fato divertido: assistir filmes e series e praticar esportes ao ar livre!
 
 ---
 fabiafb/fabiabf é um repositório tô especial ✨ porque seu `README.md` (este arquivo) aparece no seu perfil do GitHub.
