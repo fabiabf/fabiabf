@@ -2,7 +2,7 @@
 
 - 🌟 Eu sou @fabiabf
 - 👀 Estou interessada em ser desenvolvedora ou analista
-- 🌱 Atualmente estou aprendendo Java e PHP
+- 🌱 Atualmente estou aprendendo Java, PHP,CSS, HTML
 - 💞️ Estou procurando colaborar em projetos de código aberto ou banco de dados
 - 📫 Como me encontrar: @fabiabf
 - 😄 Pronomes: ela/dela
