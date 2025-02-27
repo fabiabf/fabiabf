@@ -1,10 +1,10 @@
 # Olá! 👋
 
 - 🌟 Eu sou @fabiabf
-- 👀 Estou interessada em ser desenvolvedora
-- 🌱 Atualmente estou aprendendo Java
-- 💞️ Estou procurando colaborar em projetos de código aberto
-- 📫 Como me encontrar: fabiabf
+- 👀 Estou interessada em ser desenvolvedora ou analista
+- 🌱 Atualmente estou aprendendo Java e PHP
+- 💞️ Estou procurando colaborar em projetos de código aberto ou banco de dados
+- 📫 Como me encontrar: @fabiabf
 - 😄 Pronomes: ela/dela
 - ⚡ Fato divertido: assistir filmes e series e praticar esportes ao ar livre!
 
