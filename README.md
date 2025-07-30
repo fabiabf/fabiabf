@@ -20,7 +20,12 @@
 
 ### 💡 Tecnologias e conhecimentos
 
-- `Java`, `PHP`, `CSS`, `SQL`, `Power BI`
+### 🧠 Tecnologias que uso e estudo
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,css,html,js,oracle,sql,git,github,vscode,excel,py,powershell,linux" />
+</p>
+
 - GitHub | VS Code | Banco de Dados Oracle | Lógica de programação
 
 ---
