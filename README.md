@@ -18,8 +18,6 @@
 
 ---
 
-### 💡 Tecnologias e conhecimentos
-
 ### 🧠 Tecnologias que uso e estudo
 
 <p align="left">
