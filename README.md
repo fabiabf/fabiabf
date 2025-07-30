@@ -44,7 +44,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Fábia%20Fuzinato-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/fábia-fuzinato)  
 📧 fabiaviana2012@hotmail.com  
-📸 [Instagram](https://www.instagram.com/fabia_lucianoviana)
+📸 [Instagram]([https://www.instagram.com/fabia_lucianoviana](https://www.instagram.com/fabiafuzinatoviana?igsh=MXhxaXBkNmtmdXJobA==))
 
 ---
 
