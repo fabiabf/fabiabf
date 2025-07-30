@@ -23,10 +23,8 @@
 ### 🧠 Tecnologias que uso e estudo
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,css,html,js,oracle,sql,git,github,vscode,excel,py,powershell,linux" />
+  <img src="https://skillicons.dev/icons?i=java,javascript,php,css,html,oracle,sql,git,github,vscode,excel,linux,windows" />
 </p>
-
-- GitHub | VS Code | Banco de Dados Oracle | Lógica de programação
 
 ---
 
