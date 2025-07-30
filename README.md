@@ -9,10 +9,12 @@
 
 ### 👩‍💼 Sobre mim
 
-- 💼 Atuo com suporte técnico, manutenção, controle de acessos e geração de relatórios no Tasy
-- 🎓 Farmacêutica com pós-graduação em Assuntos Regulatórios
-- 👩‍💻 Cursando Análise e Desenvolvimento de Sistemas (conclusão em 2026)
-- 🧠 Busco transição de carreira para: Backend, Análise de Dados e Desenvolvimento Web
+- 💼 Atualmente trabalho como Assistente de TI no Hospital do Rim
+- 🛠 Atuo com suporte técnico, manutenção, gerenciamento de acessos, relatórios e auxílio em desenvolvimento de sistemas
+- 📊 Gero relatórios com SQL e Excel, principalmente no sistema Tasy
+- 🎓 Farmacêutica com Pós-graduação em Assuntos Regulatórios
+- 👩‍💻 Estudante de Análise e Desenvolvimento de Sistemas (conclusão em 2026)
+- 🎯 Busco transição de carreira para desenvolvimento backend, suporte técnico avançado ou análise de dados
 
 ---
 
